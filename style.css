@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 75px;
+    font-family: 'Verdana', sans-serif;
+    color: white;
+    -webkit-text-stroke: 2px black;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Verdana', sans-serif;
+    color: white;
+    -webkit-text-stroke: 2px black;    
+}
+
+.links {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Monaco', 'Lucida Console', monospace;
+}
+
+body {
+    background-image: url("/images/food-pic.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
