@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-image: url("/images/bg-pic.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Verdana', sans-serif;
+    font-weight: bold;
+}
+
+ul,
+ol {
+  list-style-position: inside;
+  text-align: center;
+}
+
