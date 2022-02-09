@@ -23,7 +23,7 @@ h2 {
     font-family: 'Monaco', 'Lucida Console', monospace;
 }
 body {
-    background-image: url("images/food-pic.jpeg");
+    background-image: url("food-pic.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
 }
